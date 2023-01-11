@@ -20,3 +20,4 @@ Unity/Pipelines/UserSettings
 Unity/Pipelines 2/Library
 Unity/Pipelines 2/Logs
 Unity/Pipelines 2/UserSettings
+*.tgz
