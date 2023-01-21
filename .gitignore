@@ -21,3 +21,5 @@ Unity/Pipelines 2/Library
 Unity/Pipelines 2/Logs
 Unity/Pipelines 2/UserSettings
 *.tgz
+*.zip
+*.mp4
